@@ -1,2 +1,6 @@
-This dataset contains information about the rooms listed in Airbnb. We apply data cleaning ,data transformation ,data visualization and
-use linear regression to find a good model for prediction.
+Airbnb is an online marketplace for arranging or offering lodging, primarily homestays, or tourism experiences. More and more people choose to stay in a local house when they are traveling. 
+The prices of the houses vary a lot depending on the location, the size, the service, or the surroundings of the houses.
+Airbnb operates by acting as a mediator between travelers and tourists looking for a place to stay and hosts wanting to rent their properties to them.
+It facilitates the process of renting by providing an online platform where hosts can list and display their properties for people wishing to rent them.
+Currently, there are over 5 million properties listed on the Airbnb website from across the globe by more than 4 million hosts. And the website is visited by over 100 million visitors each month.
+Since Airbnb is very popular and operates online, it generates a lot of data. The data mainly focuses on the listed properties, hosts, bookings/rentals, and reviews.
